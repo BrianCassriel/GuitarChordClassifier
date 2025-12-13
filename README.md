@@ -12,3 +12,4 @@ This model predicts with ~65% accuracy on the test set which chord is being play
    source venv/bin/activate
    pip install -r requirements.txt
    ```
+4. Use `guitar_chord_classifier.ipynb` to preprocess the data, train the model, and evaluate its performance.
